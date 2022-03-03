@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **anything you would like to know.**
 
-- 📫 How to reach me **liuzhenyu@pku.edu.cn**
+- 📫 Contact me at **liuzhenyu@pku.edu.cn**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liuzhenyu-yyy&show_icons=true&locale=en" alt="liuzhenyu-yyy" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liuzhenyu-yyy&show_icons=true&locale=en&layout=compact" alt="liuzhenyu-yyy" /></p>
