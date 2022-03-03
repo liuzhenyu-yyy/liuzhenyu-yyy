@@ -1,18 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-8608
-Fork on GitHub
-1885
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
 preview
 <h1 align="center">Hi 👋, I'm Zhenyu Liu</h1>
 <h3 align="center">A PhD student in BIOPIC, Peking University.</h3>
