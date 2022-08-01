@@ -5,13 +5,13 @@
 
 - 🔭 Currently working on **single-cell genomics and cancer biology.**
 
-- 👨‍💻 All of my projects are available at [project page](https://liuzhenyu-yyy.github.io/project)
+- 👨‍💻 All of my projects are available at [project page](https://liuzhenyu-yyy.github.io/project).
 
-- 📝 Regularly write articles on [blog page](https://liuzhenyu-yyy.github.io/blog)
+- 📝 Regularly write articles on [blog page](https://liuzhenyu-yyy.github.io/blog).
 
 - 💬 Ask me about **anything you would like to know.**
 
-- 📫 Contact me at **liuzhenyu@pku.edu.cn**
+- 📫 Contact me at **liuzhenyu@pku.edu.cn**.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liuzhenyu-yyy&show_icons=true&locale=en" alt="liuzhenyu-yyy" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liuzhenyu-yyy&show_icons=true&locale=en&layout=compact" alt="liuzhenyu-yyy" /></p>
