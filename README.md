@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liuzhenyu-yyy&label=Profile%20views&color=0e75b6&style=flat" alt="liuzhenyu-yyy" /> </p>
 
-- 🔭 I’m currently working on **bioinformatics and cancer biology.**
+- 🔭 Currently working on **bioinformatics and cancer biology.**
 
 - 👨‍💻 All of my projects are available at [project page](https://liuzhenyu-yyy.github.io/project)
 
-- 📝 I regularly write articles on [blog page](https://liuzhenyu-yyy.github.io/blog)
+- 📝 Regularly write articles on [blog page](https://liuzhenyu-yyy.github.io/blog)
 
 - 💬 Ask me about **anything you would like to know.**
 
