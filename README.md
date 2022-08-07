@@ -12,5 +12,5 @@
 - 📫 Contact me at **liuzhenyu@pku.edu.cn**.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liuzhenyu-yyy&show_icons=true&locale=en" alt="liuzhenyu-yyy" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liuzhenyu-yyy&show_icons=true&locale=en&layout=compact&langs_count=6" alt="liuzhenyu-yyy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liuzhenyu-yyy&show_icons=true&locale=en&layout=compact&langs_count=6&exclude_repo=WithHer" alt="liuzhenyu-yyy" /></p>
 
