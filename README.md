@@ -7,9 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [project page](https://liuzhenyu-yyy.github.io/project).
 
-- 📝 Regularly write articles on [blog page](https://liuzhenyu-yyy.github.io/blog).
-
-- 💬 Ask me about **anything you would like to know.**
+- 📝 Check more on my personal [blog page](https://liuzhenyu-yyy.github.io).
 
 - 📫 Contact me at **liuzhenyu@pku.edu.cn**.
 
