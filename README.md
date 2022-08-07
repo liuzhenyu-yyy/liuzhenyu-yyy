@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liuzhenyu-yyy&label=Profile%20views&color=0e75b6&style=flat" alt="liuzhenyu-yyy" /> </p>
 
-- 🔭 Currently working on **single-cell genomics and cancer biology.**
+- 🔭 Currently working on **single-cell genomics and cancer biology**.
 
 - 👨‍💻 All of my projects are available at [project page](https://liuzhenyu-yyy.github.io/project).
 
