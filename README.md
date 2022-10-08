@@ -5,9 +5,9 @@
 
 - 🔭 Currently working on **single-cell genomics and cancer biology**.
 
-- 👨‍💻 All of my projects are available at [project page](https://liuzhenyu-yyy.github.io/project).
+- 📝 Check more on my [personal website](https://tc17-liuzhenyu.space).
 
-- 📝 Check more on my personal [blog page](https://liuzhenyu-yyy.github.io).
+- 👨‍💻 All of my projects are available at [project page](https://tc17-liuzhenyu.space/project).
 
 - 📫 Contact me at **liuzhenyu@pku.edu.cn**.
 
