@@ -7,7 +7,7 @@
 
 - 📝 Check more on my [personal website](https://tc17-liuzhenyu.space).
 
-- 👨‍💻 All of my projects are available at [project page](https://tc17-liuzhenyu.space/project).
+- 👨‍💻 All of my projects are available at [project page](https://tc17-liuzhenyu.space/tabs/projects.html).
 
 - 📫 Contact me at **liuzhenyu@pku.edu.cn**.
 
