@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zhenyu Liu.</h1>
-<h3 align="center">A Ph.D. student at Biomedical Pioneering Innovation Centre, Peking University.</h3>
+<h3 align="center">Ph.D. student at Biomedical Pioneering Innovation Centre, Peking University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liuzhenyu-yyy&label=Profile%20Views&color=8dd3c7&style=flat" alt="liuzhenyu-yyy" /> </p>
 
