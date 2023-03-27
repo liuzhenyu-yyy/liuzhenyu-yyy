@@ -10,6 +10,6 @@
 
 - 📫 Contact me at liuzhenyu@pku.edu.cn.
 
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=liuzhenyu-yyy&show_icons=true&locale=en&count_private=true&theme=transparent" alt="liuzhenyu-yyy" />
-<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=liuzhenyu-yyy&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=6&exclude_repo=WithHer&theme=transparent" alt="liuzhenyu-yyy" />
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=liuzhenyu-yyy&show_icons=true&locale=en&count_private=true&theme=transparent" alt="liuzhenyu-yyy" width=40%/>
+<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=liuzhenyu-yyy&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=6&exclude_repo=WithHer&theme=transparent" alt="liuzhenyu-yyy" width=30%/>
 
