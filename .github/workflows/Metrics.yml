@@ -20,16 +20,14 @@ jobs:
           user: liuzhenyu-yyy
           template: classic
           base: header, activity, community, repositories, metadata
-          config_padding: 0, 10 + 13%
-          config_timezone: Asia/Beijing
+          config_padding: 0, 15 + 15%
+          config_timezone: Asia/Shanghai
           
           optimize: svg
           experimental_features: --optimize-svg
           
           plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
+          plugin_habits_days: 30
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
@@ -58,6 +56,3 @@ jobs:
           plugin_languages_skipped: WithHer
           plugin_languages_threshold: 0%
           
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: B
