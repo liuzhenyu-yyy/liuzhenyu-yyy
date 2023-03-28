@@ -20,8 +20,7 @@ jobs:
           user: liuzhenyu-yyy
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: columns
-          config_padding: 0, 8 + 10%
+          config_padding: 0, 10 + 13%
           config_timezone: Asia/Beijing
           
           optimize: svg
