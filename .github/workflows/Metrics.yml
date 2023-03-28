@@ -19,8 +19,7 @@ jobs:
           # Options
           user: liuzhenyu-yyy
           template: classic
-          base: header, activity, repositories, metadata
-          config_display: large
+          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Beijing
           
           optimize: svg
