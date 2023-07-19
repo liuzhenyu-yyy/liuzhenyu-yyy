@@ -61,8 +61,7 @@ jobs:
           plugin_languages_threshold: 0%
           
           plugin_wakatime: yes
+          plugin_wakatime_days: 30
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_sections: time, projects, languages, languages-graphs, editors, os, os-graphs
           plugin_wakatime_user: Tc17
-          plugin_wakatime_days: 30
-          
