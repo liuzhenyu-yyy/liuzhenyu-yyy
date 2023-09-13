@@ -29,6 +29,7 @@ jobs:
           
           plugin_traffic: yes
           plugin_lines: yes
+          plugin_lines_delay: 30
           
           plugin_habits: yes
           plugin_habits_days: 30
