@@ -1695,7 +1695,7 @@
           </div>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/></svg>
-            Followed by 17 users
+            Followed by 18 users
           </div>
           
         </section>
@@ -1712,25 +1712,25 @@
                 
                   <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                 
-                  <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                  <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                 
-                  <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                  <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
               </g>
             </svg>
@@ -1757,8 +1757,8 @@
       
         <section>
           <div class="introduction">
-            Bioinformatics &amp; Cancer genomics. Researcher at National Cancer Center China.
-PhD &amp; BS from PKU.
+            Bioinformatics &amp; Cancer genomics. Research staff at National Cancer Center China.
+PhD &amp; BS from Peking University.
           </div>
         </section>
       
@@ -1777,7 +1777,7 @@ PhD &amp; BS from PKU.
           </h2>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            1284 Commits
+            1286 Commits
           </div>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1860,7 +1860,7 @@ PhD &amp; BS from PKU.
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    128k added, 33k removed
+                    121k added, 69.4k removed
                   
                 </div>
             
@@ -1886,7 +1886,7 @@ PhD &amp; BS from PKU.
                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
                   
-                    126 views in last two weeks
+                    123 views in last two weeks
                   
                 </div>
             
@@ -1918,19 +1918,19 @@ PhD &amp; BS from PKU.
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="342.2134473689311" height="8" fill="#198CE7"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="342.2792896797743" height="8" fill="#198CE7"/>
             
-              <rect mask="url(#languages-bar)" x="342.2134473689311" y="0" width="34.210793327959884" height="8" fill="#89e051"/>
+              <rect mask="url(#languages-bar)" x="342.2792896797743" y="0" width="34.191669602558484" height="8" fill="#89e051"/>
             
-              <rect mask="url(#languages-bar)" x="376.42424069689093" y="0" width="31.960700128711863" height="8" fill="#DA5B0B"/>
+              <rect mask="url(#languages-bar)" x="376.4709592823328" y="0" width="31.942834198300996" height="8" fill="#DA5B0B"/>
             
-              <rect mask="url(#languages-bar)" x="408.3849408256028" y="0" width="11.024019754820426" height="8" fill="#e34c26"/>
+              <rect mask="url(#languages-bar)" x="408.4137934806338" y="0" width="11.017857362601402" height="8" fill="#e34c26"/>
             
-              <rect mask="url(#languages-bar)" x="419.40896058042324" y="0" width="9.606292174797328" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="419.4316508432352" y="0" width="9.60092228781706" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="429.01525275522056" y="0" width="8.695158085305527" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="429.0325731310523" y="0" width="8.690297519403092" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="437.71041084052604" y="0" width="22.289589159473888" height="8" fill="#ededed"/>
+              <rect mask="url(#languages-bar)" x="437.7228706504553" y="0" width="22.277129349544623" height="8" fill="#ededed"/>
             
           </svg>
         
@@ -1947,7 +1947,7 @@ PhD &amp; BS from PKU.
                     <small>
                       
                       
-                       <div>74.39%</div>
+                       <div>74.41%</div>
                     </small>
                   </div>
                 
@@ -1959,7 +1959,7 @@ PhD &amp; BS from PKU.
                     <small>
                       
                       
-                       <div>6.95%</div>
+                       <div>6.94%</div>
                     </small>
                   </div>
                 
@@ -1983,7 +1983,7 @@ PhD &amp; BS from PKU.
                     <small>
                       
                       
-                       <div>4.85%</div>
+                       <div>4.84%</div>
                     </small>
                   </div>
                 
@@ -1999,7 +1999,7 @@ PhD &amp; BS from PKU.
                     <small>
                       
                       
-                       <div>7.44%</div>
+                       <div>7.43%</div>
                     </small>
                   </div>
                 
@@ -2057,7 +2057,7 @@ PhD &amp; BS from PKU.
           
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/></svg>
-              Current streak 2 days
+              Current streak 3 days
             </div>
           
           <div class="field">
@@ -3018,6 +3018,11 @@ PhD &amp; BS from PKU.
                       <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                       <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5 0,4 z"/>
                       <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4 1.7,5 z"/>
+                    </g>
+                    <g transform="translate(-5.1, 7.5)">
+                      <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                      <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.5 0,2.5 z"/>
+                      <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.5 1.7,3.5 z"/>
                     </g></g></g></svg>
     
   </section>
@@ -3029,7 +3034,7 @@ PhD &amp; BS from PKU.
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/></svg>
       Recent coding habits
       
-        <small class="h-details">(computed from last 11 commits)</small>
+        <small class="h-details">(computed from last 12 commits)</small>
       
     </h2>
     
@@ -3039,7 +3044,7 @@ PhD &amp; BS from PKU.
             <li>Uses spaces for indentation</li>
           
           
-            <li>Has approximately 32.9 characters per line of code written</li>
+            <li>Has approximately 32.5 characters per line of code written</li>
           
           
             <li>Mostly pushes code around 13:00</li>
@@ -3170,13 +3175,13 @@ PhD &amp; BS from PKU.
                   
                     <div class="entry">
                       <span class="name">R</span>
-                      <div class="bar" style="width: 78.34400000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <div class="bar" style="width: 78.416%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                       <span class="value">98%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Shell</span>
-                      <div class="bar" style="width: 1.656%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 1.5839999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">2%</span>
                     </div>
                   
@@ -3191,13 +3196,13 @@ PhD &amp; BS from PKU.
                   
                     <div class="entry">
                       <span class="name">Windows</span>
-                      <div class="bar" style="width: 78.34400000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <div class="bar" style="width: 78.416%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                       <span class="value">98%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">WSL</span>
-                      <div class="bar" style="width: 1.656%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 1.5839999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">2%</span>
                     </div>
                   
@@ -3259,7 +3264,7 @@ PhD &amp; BS from PKU.
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 20 Aug 2025, 09:43:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 21 Aug 2025, 09:40:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
