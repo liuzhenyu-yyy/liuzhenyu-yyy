@@ -57,4 +57,4 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_sections: time, projects, languages, languages-graphs, editors, os, os-graphs
           plugin_wakatime_user: Tc17
-          plugin_wakatime_repositories_visibility: public
+          plugin_wakatime_repositories_visibility: all
