@@ -53,7 +53,7 @@ jobs:
           plugin_languages_threshold: 0%
 
           plugin_followup: yes
-          plugin_followup_sections: repositories, user
+          plugin_followup_sections: user
           
           plugin_wakatime: yes
           plugin_wakatime_days: 30
