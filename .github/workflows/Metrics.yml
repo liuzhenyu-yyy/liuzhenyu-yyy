@@ -22,7 +22,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_padding: 0, 18 + 15%
           config_timezone: Asia/Shanghai
-          config_order: base.header, introduction, base.activity+community, base.repositories, languages, isocalendar, followup
+          config_order: base.header, introduction, base.activity+community, base.repositories, languages, isocalendar
           
           optimize: svg
           experimental_features: --optimize-svg
@@ -51,9 +51,6 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_skipped: WithHer, Pandas_Advanced_Exercise
           plugin_languages_threshold: 0%
-
-          plugin_followup: yes
-          plugin_followup_sections: user
           
           plugin_wakatime: yes
           plugin_wakatime_days: 30
