@@ -20,7 +20,7 @@ jobs:
           user: liuzhenyu-yyy
           template: classic
           base: header, activity, community, repositories, metadata
-          config_padding: 0, 18 + 15%
+          config_padding: 0, 10 + 5%
           config_timezone: Asia/Shanghai
           config_order: base.header, introduction, base.activity+community, base.repositories, languages, isocalendar
           
