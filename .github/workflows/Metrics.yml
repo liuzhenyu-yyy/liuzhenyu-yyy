@@ -22,7 +22,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_padding: 0, 10 + 5%
           config_timezone: Asia/Shanghai
-          config_order: base.header, introduction, 16personalities, base.activity+community, base.repositories, languages, followup, isocalendar, wakatime
+          config_order: base.header, introduction, base.activity+community, base.repositories, languages, followup, isocalendar, wakatime
           
           optimize: svg
           experimental_features: --optimize-svg
@@ -48,7 +48,13 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_skipped: WithHer
           plugin_languages_threshold: 0%
-
+          
+          # plugin_habits: yes
+          # plugin_habits_from: 200 
+          # plugin_habits_days: 30
+          # plugin_habits_facts: yes
+          # plugin_habits_charts: no
+          
           plugin_followup: yes
           plugin_followup_indepth: yes
   
@@ -59,7 +65,7 @@ jobs:
           plugin_wakatime_user: Tc17
           plugin_wakatime_repositories_visibility: all
 
-          plugin_16personalities: yes
-          plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
-          plugin_16personalities_sections: personality
-          plugin_16personalities_scores: no
+          # plugin_16personalities: yes
+          # plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
+          # plugin_16personalities_sections: personality
+          # plugin_16personalities_scores: no
