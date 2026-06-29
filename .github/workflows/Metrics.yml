@@ -20,9 +20,9 @@ jobs:
           user: liuzhenyu-yyy
           template: classic
           base: header, activity, community, repositories, metadata
-          config_padding: 0, 10 + 5%
+          config_padding: 0, 15 + 5%
           config_timezone: Asia/Shanghai
-          config_order: base.header, introduction, base.activity+community, base.repositories, languages, followup, isocalendar, wakatime
+          config_order: base.header, introduction, base.activity+community, base.repositories, languages, notable, followup, isocalendar, wakatime
           
           optimize: svg
           experimental_features: --optimize-svg
@@ -48,6 +48,9 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_skipped: WithHer
           plugin_languages_threshold: 0%
+
+          plugin_notable: yes
+          plugin_notable_repositories: yes
           
           # plugin_habits: yes
           # plugin_habits_from: 200 
@@ -64,8 +67,3 @@ jobs:
           plugin_wakatime_sections: time, projects, languages, languages-graphs, editors, os, os-graphs
           plugin_wakatime_user: Tc17
           plugin_wakatime_repositories_visibility: all
-
-          # plugin_16personalities: yes
-          # plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
-          # plugin_16personalities_sections: personality
-          # plugin_16personalities_scores: no
