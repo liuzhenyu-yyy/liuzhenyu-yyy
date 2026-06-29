@@ -20,9 +20,9 @@ jobs:
           user: liuzhenyu-yyy
           template: classic
           base: header, activity, community, repositories, metadata
-          config_padding: 0, 15 + 5%
+          config_padding: 0, 15 + 10%
           config_timezone: Asia/Shanghai
-          config_order: base.header, introduction, base.activity+community, base.repositories, languages, notable, followup, isocalendar, wakatime
+          config_order: base.header, introduction, base.activity+community, base.repositories, languages, followup, notable, isocalendar, wakatime
           
           optimize: svg
           experimental_features: --optimize-svg
@@ -50,7 +50,7 @@ jobs:
           plugin_languages_threshold: 0%
 
           plugin_notable: yes
-          plugin_notable_repositories: yes
+          plugin_notable_repositories: no
           plugin_notable_from: all
           plugin_notable_types: commit, pull_request, issue
           
